@@ -1,237 +1,294 @@
+<!-- ========================================================= -->
+<!--             AURORA DEVELOPER PROFILE                     -->
+<!--                  SRUJAN BHARADWAJ S                       -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- HEADER -->
+<!-- ANIMATED AURORA HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F2027,50:203A43,100:2C5364&text=SRUJAN%20BHARADWAJ%20S&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=14&descAlignY=65"/>
+<img width="100%" height="220"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,35:00C9FF,70:7928CA,100:090979&height=220&section=header&text=SRUJAN%20BHARADWAJ%20S&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=ENGINEERING%20INTELLIGENCE%20INTO%20REALITY&descSize=14&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Exploring+Artificial+Intelligence;Machine+Learning+Enthusiast;Full+Stack+Development+Learner;Building+Ideas+Into+Real+Projects" />
+<!-- ANIMATED INTRODUCTION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=Hello%2C+World!+I'm+Srujan+%F0%9F%91%8B;Computer+Science+%26+AI+Student;Exploring+Artificial+Intelligence;Building+with+Python+%7C+Java+%7C+AI;Turning+Ideas+Into+Intelligent+Solutions"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-00C9FF?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/ROLE-Developer%20In%20Progress-7928CA?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-00D4AA?style=for-the-badge&labelColor=101020"/>
 
 <br><br>
 
 <a href="https://github.com/srujanbharadwajs29-max">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=srujanbharadwajs29-max&style=for-the-badge&color=7928CA&label=VISITORS"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=srujanbharadwajs29-max&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<a href="https://github.com/srujanbharadwajs29-max?tab=followers">
+<img src="https://img.shields.io/github/followers/srujanbharadwajs29-max?style=for-the-badge&logo=github&label=FOLLOWERS&color=00C9FF"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/srujanbharadwajs29-max?style=for-the-badge&logo=github&color=blue&label=Followers"/>
+<br><br>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Srujan Bharadwaj S**, a Computer Science and Engineering student specializing in Artificial Intelligence.
-
-I'm passionate about technology, problem-solving and developing practical software solutions.
-
-- 🎓 Computer Science & Engineering (Artificial Intelligence).
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💻 Interested in Full-Stack Development and Software Engineering.
-- 🧠 Learning through hands-on projects and experimentation.
-- 🚀 Interested in building practical, scalable and maintainable applications.
-- 🤝 Open to collaboration, innovation and learning opportunities.
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark"/>
+[ ABOUT ](#about-me) •
+[ TECHNOLOGIES ](#tech-universe) •
+[ PROJECTS ](#featured-work) •
+[ ANALYTICS ](#github-analytics) •
+[ CONNECT ](#connect)
 
 </div>
 
-### Web Development
+<br>
 
-<div align="center">
+<!-- ========================================================= -->
+<!-- ABOUT SECTION                                             -->
+<!-- ========================================================= -->
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark"/>
+<h2 id="about-me">◈ 01 — Beyond The Code</h2>
 
-</div>
+<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Databases & Development Tools
+I'm **Srujan Bharadwaj S**, a Computer Science and Engineering student specializing in Artificial Intelligence.
 
-<div align="center">
+I enjoy exploring the intersection of intelligent systems, software engineering and creative problem-solving.
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,aws&theme=dark"/>
+I believe great technology is not just about writing code — it's about transforming ideas into meaningful solutions.
 
-</div>
+<br clear="right"/>
 
----
-
-## 🎯 Areas of Interest
-
-<div align="center">
-
-| Artificial Intelligence | Machine Learning | Full-Stack Development |
-|:---:|:---:|:---:|
-| Intelligent Systems | Predictive Models | Web Applications |
-| Deep Learning | Data Analysis | Backend Development |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
-<h3 align="center">Smart Parking Predictor</h3>
+**CURRENT EXPLORATIONS**
 
-<p align="center">
-An intelligent parking management application focused on parking availability, reservation and management.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/srujanbharadwajs29-max/Smart-Parking-Predictor">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Full-Stack Development
+- Software Engineering
 
 </td>
-
 <td width="50%">
 
-<h3 align="center">Java Development</h3>
+**MY DEVELOPER PHILOSOPHY**
 
-<p align="center">
-Exploring Java application development, object-oriented programming and database connectivity.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/srujanbharadwajs29-max?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">Machine Learning</h3>
-
-<p align="center">
-Exploring practical applications of machine learning, image classification and computer vision.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/srujanbharadwajs29-max?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Software Development</h3>
-
-<p align="center">
-Building software applications while improving programming, database management and problem-solving skills.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/srujanbharadwajs29-max?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- Build with purpose.
+- Learn continuously.
+- Experiment fearlessly.
+- Solve real problems.
+- Improve every day.
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
+<!-- ========================================================= -->
+<!-- TECH STACK                                                -->
+<!-- ========================================================= -->
 
-## 📊 GitHub Statistics
+<h2 id="tech-universe">◈ 02 — My Tech Universe</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srujanbharadwajs29-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### PROGRAMMING LANGUAGES
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanbharadwajs29-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
 
 <br><br>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=srujanbharadwajs29-max&theme=tokyonight&hide_border=true"/>
+### FRONTEND & BACKEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+
+<br><br>
+
+### DATABASES & TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,aws&theme=dark" />
 
 </div>
 
----
+<br>
 
-## 🏆 GitHub Achievements
+<!-- ========================================================= -->
+<!-- SPECIAL INTERESTS                                         -->
+<!-- ========================================================= -->
+
+<h2>◈ 03 — Areas I Explore</h2>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img width="55" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+
+### Artificial Intelligence
+
+Exploring intelligent systems and AI-powered applications.
+
+</td>
+<td align="center" width="33%">
+
+<img width="55" src="https://img.icons8.com/fluency/96/brain.png"/>
+
+### Machine Learning
+
+Experimenting with learning algorithms and data-driven solutions.
+
+</td>
+<td align="center" width="33%">
+
+<img width="55" src="https://img.icons8.com/fluency/96/source-code.png"/>
+
+### Software Engineering
+
+Developing practical applications with maintainable code.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- PROJECTS                                                  -->
+<!-- ========================================================= -->
+
+<h2 id="featured-work">◈ 04 — Selected Work</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srujanbharadwajs29-max&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=7928CA&center=true&vCenter=true&width=600&lines=Ideas+are+easy.+Building+is+the+real+art.;Every+project+is+a+new+experiment."/>
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td width="100%">
 
-## 📈 Contribution Activity
+<h3>01 / Smart Parking Predictor</h3>
+
+An intelligent parking management project focused on parking availability, reservation and management.
+
+**Technology Stack**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+<br>
+
+<a href="https://github.com/srujanbharadwajs29-max/Smart-Parking-Predictor">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srujanbharadwajs29-max&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%"/>
+### MORE EXPERIMENTS ARE UNDER DEVELOPMENT
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/srujanbharadwajs29-max">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/srujanbharadwajs29-max?tab=repositories">
+<img src="https://img.shields.io/badge/DISCOVER_ALL_REPOSITORIES-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
+
+<!-- ========================================================= -->
+<!-- GITHUB ANALYTICS                                          -->
+<!-- ========================================================= -->
+
+<h2 id="github-analytics">◈ 05 — Developer Analytics</h2>
 
 <div align="center">
 
-### Building. Learning. Innovating.
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=srujanbharadwajs29-max&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7928CA&text_color=FFFFFF&ring_color=00C9FF&include_all_commits=true"/>
 
-*Turning curiosity into code and ideas into solutions.*
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanbharadwajs29-max&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF&langs_count=6"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=srujanbharadwajs29-max&hide_border=true&background=0D1117&ring=00C9FF&fire=7928CA&currStreakLabel=00C9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+
+</div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
+<!-- ========================================================= -->
+<!-- TROPHIES                                                  -->
+<!-- ========================================================= -->
+
+<h2>◈ 06 — Achievements & Milestones</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=srujanbharadwajs29-max&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=6"/>
 
 </div>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- CONTRIBUTION GRAPH                                        -->
+<!-- ========================================================= -->
+
+<h2>◈ 07 — Contribution Landscape</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srujanbharadwajs29-max&bg_color=0D1117&color=00C9FF&line=7928CA&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20DEVELOPMENT%20ACTIVITY"/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- CONNECT                                                   -->
+<!-- ========================================================= -->
+
+<h2 id="connect">◈ 08 — Let's Connect</h2>
+
+<div align="center">
+
+I'm always interested in connecting with developers, exploring innovative ideas and collaborating on meaningful projects.
+
+<br>
+
+<a href="https://github.com/srujanbharadwajs29-max">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### HAVE AN IDEA? LET'S BUILD SOMETHING GREAT.
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- FOOTER                                                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Innovate.;The+best+is+yet+to+be+built.;Thanks+for+visiting+my+digital+space+%E2%9C%A8"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,35:00C9FF,70:7928CA,100:090979&height=130&section=footer&animation=twinkling"/>
+
+</div>
+
+<!-- END OF PROFILE -->

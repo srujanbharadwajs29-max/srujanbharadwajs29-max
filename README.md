@@ -1,83 +1,140 @@
-<!-- ===================================================== -->
-<!--              GAMIFIED CONTRIBUTION ARENA              -->
-<!-- ===================================================== -->
-
-<h2 align="center">🎮 07 — DEVELOPER QUEST ARENA</h2>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 SRUJAN BHARADWAJ - PROFILE                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Every+commit+earns+experience.;Every+day+is+a+new+level.;Keep+coding.+Keep+evolving."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:001A08,50:003B18,100:00FF66&text=SRUJAN%20BHARADWAJ&fontColor=FFFFFF&fontSize=48&fontAlignY=45&animation=twinkling&stroke=00FF66&strokeWidth=1"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress;Building+Ideas+Into+Reality..." alt="Typing SVG"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1B,50:172554,100:312E81&height=3"/>
+<br/>
 
-### ⚡ YOUR CODING JOURNEY
+<img src="https://media.giphy.com/media/5oUCKj9eSoksxKc5xg/giphy.gif" width="100%" alt="Matrix animation"/>
 
-<table width="100%">
+</div>
+
+---
+
+## `01 / ABOUT ME`
+
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="62%" valign="middle">
 
-### 🟢 LEVEL UP
+### Hello, World! 👋
 
-**CONSISTENCY**
+I'm **Srujan Bharadwaj S**, a Computer Science and Engineering student specializing in Artificial Intelligence.
 
-Build your daily coding habit.
+I enjoy building software, exploring intelligent systems, and turning creative ideas into practical projects.
+
+- 🎓 CSE (Artificial Intelligence)
+- 🤖 Exploring AI, ML & Deep Learning
+- 💻 Interested in Full Stack Development
+- 🚀 Building software-based projects
+- 🌱 Constantly learning and experimenting
+
+**Current mindset:** Learn → Build → Break → Improve → Repeat.
 
 </td>
-<td align="center" width="33%">
+<td width="38%" align="center" valign="middle">
 
-### 🔵 GAIN XP
-
-**CONTRIBUTIONS**
-
-Every contribution moves you forward.
-
-</td>
-<td align="center" width="33%">
-
-### 🟣 UNLOCK
-
-**ACHIEVEMENTS**
-
-Turn milestones into victories.
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="Animated coding character"/>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-### 🐍 THE CONTRIBUTION SNAKE
+## `02 / TECH STACK`
 
-*Can you keep your contribution streak alive?*
+<div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/srujanbharadwajs29-max/srujanbharadwajs29-max/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+### Programming Languages
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark"/>
 
-### 🔥 STREAK CHALLENGE
+### Web Development
 
-<img width="85%" src="https://streak-stats.demolab.com?user=srujanbharadwajs29-max&theme=tokyonight&hide_border=true&background=080D1B&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark"/>
 
-<br>
+### Database & Tools
 
-### 🏆 ACHIEVEMENT COLLECTION
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark"/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=srujanbharadwajs29-max&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+</div>
 
-<br>
+---
 
-### 🌌 YOUR DEVELOPMENT ACTIVITY
+## `03 / FEATURED PROJECTS`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srujanbharadwajs29-max&bg_color=080D1B&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CODING%20ACTIVITY%20MAP"/>
+<div align="center">
 
-<br>
+### 🚗 Smart Parking Predictor
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:155E75,100:080D1B&height=3"/>
+Predictive parking management system with parking-slot monitoring and reservation functionality.
 
-### 🚀 NEXT LEVEL: KEEP BUILDING
+<a href="https://github.com/srujanbharadwajs29-max/Smart-Parking-Predictor">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-*Your next achievement starts with your next commit.*
+</div>
+
+---
+
+## `04 / DEVELOPER MODE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00FF66&center=true&vCenter=true&width=650&lines=while(alive)+%7B+keepLearning();+%7D;Building+something+better+every+day...;Turning+coffee+into+code+%E2%98%95" alt="Developer mode"/>
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Srujan Bharadwaj"
+        self.focus = ["AI", "Machine Learning", "Full Stack"]
+        self.status = "Always Learning"
+
+    def build(self):
+        return "Ideas into reality 🚀"
+
+
+me = Developer()
+print(me.build())
+```
+
+</div>
+
+---
+
+## `05 / GITHUB CONTRIBUTIONS`
+
+<div align="center">
+
+### My Coding Journey
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srujanbharadwajs29-max&bg_color=050B08&color=39FF14&line=00FF66&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `06 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/srujanbharadwajs29-max">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A08,100:00FF66&height=100&section=footer"/>
+
+### `SYSTEM STATUS: ALWAYS LEARNING`
+
+**Thanks for visiting my profile!**
 
 </div>
